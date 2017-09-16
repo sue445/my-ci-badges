@@ -1,0 +1,11 @@
+[
+  {
+    "repo_url": "https://github.com/sue445/rubicure",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/rubicure",
+        "img": "https://travis-ci.org/sue445/rubicure.svg?branch=master"
+      }
+    ]
+  }
+]
