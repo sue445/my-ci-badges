@@ -7,5 +7,328 @@
         "img": "https://travis-ci.org/sue445/rubicure.svg?branch=master"
       }
     ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/paraduct",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/paraduct",
+        "img": "https://travis-ci.org/sue445/paraduct.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/google_holiday_calendar",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/google_holiday_calendar",
+        "img": "https://travis-ci.org/sue445/google_holiday_calendar.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/heart_seed",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/heart_seed",
+        "img": "https://travis-ci.org/sue445/heart_seed.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/activerecord-simple_index_name",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/activerecord-simple_index_name",
+        "img": "https://travis-ci.org/sue445/activerecord-simple_index_name.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/rspec-temp_dir",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/rspec-temp_dir",
+        "img": "https://travis-ci.org/sue445/rspec-temp_dir.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/sengiri_yaml",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/sengiri_yaml",
+        "img": "https://travis-ci.org/sue445/sengiri_yaml.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/gitlab_mr_release",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/gitlab_mr_release",
+        "img": "https://travis-ci.org/sue445/gitlab_mr_release.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/faker-precure",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/faker-precure",
+        "img": "https://travis-ci.org/sue445/faker-precure.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/apple_system_status",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/apple_system_status",
+        "img": "https://travis-ci.org/sue445/apple_system_status.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/date_discreter",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/date_discreter",
+        "img": "https://travis-ci.org/sue445/date_discreter.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/rubygems_check_replacement_vulnerability",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/rubygems_check_replacement_vulnerability",
+        "img": "https://travis-ci.org/sue445/rubygems_check_replacement_vulnerability.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/tweet_validator",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/tweet_validator",
+        "img": "https://travis-ci.org/sue445/tweet_validator.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/activerecord-compatible_legacy_migration",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/activerecord-compatible_legacy_migration",
+        "img": "https://travis-ci.org/sue445/activerecord-compatible_legacy_migration.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/twitter_retry",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/twitter_retry",
+        "img": "https://travis-ci.org/sue445/twitter_retry.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/fluent-plugin-chatwork",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/fluent-plugin-chatwork",
+        "img": "https://travis-ci.org/sue445/fluent-plugin-chatwork.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/pebbles-tokyu_ruby_kaigi",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/pebbles-tokyu_ruby_kaigi",
+        "img": "https://travis-ci.org/sue445/pebbles-tokyu_ruby_kaigi.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/compact_blank",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/compact_blank",
+        "img": "https://travis-ci.org/sue445/compact_blank.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/faraday_boolean",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/faraday_boolean",
+        "img": "https://travis-ci.org/sue445/faraday_boolean.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/kiriban_getter",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/kiriban_getter",
+        "img": "https://travis-ci.org/sue445/kiriban_getter.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/tweet_sanitizer",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/tweet_sanitizer",
+        "img": "https://travis-ci.org/sue445/tweet_sanitizer.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/zatsu_monitor",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/zatsu_monitor",
+        "img": "https://travis-ci.org/sue445/zatsu_monitor.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/chrome-gitlab-notifier",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/chrome-gitlab-notifier",
+        "img": "https://travis-ci.org/sue445/chrome-gitlab-notifier.svg?branch=master"
+      }
+    ]
+  },
+
+  {
+    "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/ccc_privacy_crawler/tree/master",
+        "img": "https://circleci.com/gh/sue445/ccc_privacy_crawler/tree/master.svg?style=svg"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/sebastian-badge",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/sebastian-badge/tree/master",
+        "img": "https://circleci.com/gh/sue445/sebastian-badge/tree/master.svg?style=svg"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/app-stat-api",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/app-stat-api/tree/master",
+        "img": "https://circleci.com/gh/sue445/app-stat-api/tree/master.svg?style=svg"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/rubicure_api",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/rubicure_api/tree/master",
+        "img": "https://circleci.com/gh/sue445/rubicure_api/tree/master.svg?style=svg"
+      }
+    ]
+  },
+
+  {
+    "repo_url": "https://github.com/sue445/index_shotgun",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/index_shotgun",
+        "img": "https://travis-ci.org/sue445/index_shotgun.svg?branch=master"
+      },
+      {
+        "url": "https://app.wercker.com/project/byKey/1af95c0c5debe57562ec3036c849f80d",
+        "img": "https://app.wercker.com/status/1af95c0c5debe57562ec3036c849f80d/m/master"
+      }
+    ]
+  },
+
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-consul",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/1d28d36364b4f79161fc248c6c934072",
+        "img": "https://app.wercker.com/status/1d28d36364b4f79161fc248c6c934072/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/7b3074cbef6200439b30ef89eed393df",
+        "img": "https://app.wercker.com/status/7b3074cbef6200439b30ef89eed393df/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/capistrano-itamae",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/a2f734cda581d3d221e10b1ede83bb71",
+        "img": "https://app.wercker.com/status/a2f734cda581d3d221e10b1ede83bb71/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tmux",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/f879bd39d3c0a5ac0480cd0286077fa4",
+        "img": "https://app.wercker.com/status/f879bd39d3c0a5ac0480cd0286077fa4/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tig",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/c59024592cbde003c22281c34332be02",
+        "img": "https://app.wercker.com/status/c59024592cbde003c22281c34332be02/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-omori_gohan",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/766847e4b2c442049f1d0c71ecee6de1",
+        "img": "https://app.wercker.com/status/766847e4b2c442049f1d0c71ecee6de1/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-git_now",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/48a0737824a0f6c97b62ae3ba89a6446",
+        "img": "https://app.wercker.com/status/48a0737824a0f6c97b62ae3ba89a6446/m/master"
+      }
+    ]
+  },
+
+  {
+    "repo_url": "https://gitlab.com/sue445/gitlab_awesome_release",
+    "badges": [
+      {
+        "url": "https://gitlab.com/sue445/gitlab_awesome_release/commits/master",
+        "img": "https://gitlab.com/sue445/gitlab_awesome_release/badges/master/pipeline.svg"
+      }
+    ]
   }
 ]
