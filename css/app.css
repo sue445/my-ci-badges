@@ -1,3 +1,13 @@
 body {
     padding-top: 5rem;
 }
+
+#repositories {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#repositories .card {
+    width: 15rem;
+}

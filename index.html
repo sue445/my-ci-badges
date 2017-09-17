@@ -33,15 +33,17 @@
     </nav>
 
     <div class="container-fluid" id="app">
-      <div class="card" style="width: 20rem;" v-for="repo in repositories">
-        <div class="card-body">
-          <h4 class="card-title">
-            <i v-if="repo.icon" v-bind:class="repo.icon" aria-hidden="true"></i>
-            <a v-bind:href="repo.repo_url">{{repo.name}}</a>
-          </h4>
-          <span v-for="badge in repo.badges">
-            <a v-bind:href="badge.url"><img v-bind:src="badge.img" /></a>
-          </span>
+      <div id="repositories">
+        <div class="card" v-for="repo in repositories">
+          <div class="card-body">
+            <h4 class="card-title">
+              <i v-if="repo.icon" v-bind:class="repo.icon" aria-hidden="true"></i>
+              <a v-bind:href="repo.repo_url">{{repo.name}}</a>
+            </h4>
+            <span v-for="badge in repo.badges">
+              <a v-bind:href="badge.url"><img v-bind:src="badge.img" /></a>
+            </span>
+          </div>
         </div>
       </div>
     </div><!-- /.container -->
