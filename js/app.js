@@ -25,6 +25,8 @@ const app = new Vue({
         repo.icon = "fa fa-github";
       } else if (repo.repo_url.includes("gitlab.com")) {
         repo.icon = "fa fa-gitlab";
+      } else if (repo.repo_url.includes("bitbucket.com")) {
+        repo.icon = "fa fa-bitbucket";
       }
 
       return repo;
