@@ -321,6 +321,42 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/jenkins-backup-script",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/17ca82b64d66756a966db78695ad4c8f",
+        "img": "https://app.wercker.com/status/17ca82b64d66756a966db78695ad4c8f/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/cure-bots",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/9ba6925ec9ca9f47898b0fcc4a6bafe6",
+        "img": "https://app.wercker.com/status/9ba6925ec9ca9f47898b0fcc4a6bafe6/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/cure-mastodon-bots",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/766e3640dce38988ae94a23dd279c71e",
+        "img": "https://app.wercker.com/status/766e3640dce38988ae94a23dd279c71e/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/twittodon",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/17b86a545fd6c33053387b3fe3723796",
+        "img": "https://app.wercker.com/status/17b86a545fd6c33053387b3fe3723796/m/master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://gitlab.com/sue445/gitlab_awesome_release",
