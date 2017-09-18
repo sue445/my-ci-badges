@@ -6,10 +6,13 @@ const app = new Vue({
   methods: {
     getRepositories() {
       const url = 'config/repositories.json';
-      axios.get(url).then(x => {
-        this.repositories = x.data.
-          map(repo => { return this.convertRepository(repo) }).
-          sort((a, b) => { return this.compareString(a.name, b.name) });
+      const that = this;
+      axios.get(url).then(function (x) {
+        that.repositories = x.data.map(function (repo) {
+          return that.convertRepository(repo);
+        }).sort(function (a, b) {
+          return that.compareString(a.name, b.name);
+        });
       });
     },
     convertRepository(repo) {
