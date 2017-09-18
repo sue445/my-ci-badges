@@ -4,15 +4,18 @@ const app = new Vue({
     repositories: []
   },
   methods: {
-    getRepositories() {
+    getRepositories: function () {
       const url = 'config/repositories.json';
-      axios.get(url).then(x => {
-        this.repositories = x.data.
-          map(repo => { return this.convertRepository(repo) }).
-          sort((a, b) => { return this.compareString(a.name, b.name) });
+      const that = this;
+      axios.get(url).then(function (x) {
+        that.repositories = x.data.map(function (repo) {
+          return that.convertRepository(repo);
+        }).sort(function (a, b) {
+          return that.compareString(a.name, b.name);
+        });
       });
     },
-    convertRepository(repo) {
+    convertRepository: function (repo) {
       const matched = repo.repo_url.match(/\/([-\w]+)\/([-\w]+)$/);
       if (matched) {
         repo.name = matched[2];
@@ -21,7 +24,7 @@ const app = new Vue({
       }
 
       // font-awesome icon
-      if(repo.repo_url.includes("github.com")){
+      if (repo.repo_url.includes("github.com")) {
         repo.icon = "fa fa-github";
       } else if (repo.repo_url.includes("gitlab.com")) {
         repo.icon = "fa fa-gitlab";
@@ -31,17 +34,17 @@ const app = new Vue({
 
       return repo;
     },
-    compareString(a, b) {
-      if(a < b){
+    compareString: function (a, b) {
+      if (a < b) {
         return -1;
       }
-      if(a > b){
+      if (a > b) {
         return 1;
       }
       return 0;
     }
   },
-  mounted() {
+  mounted: function () {
     this.getRepositories();
   }
 });
