@@ -206,6 +206,15 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/goprecure",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/goprecure",
+        "img": "https://travis-ci.org/sue445/goprecure.svg?branch=master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
