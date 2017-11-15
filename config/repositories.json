@@ -215,6 +215,15 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/omniauth-chatwork",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/omniauth-chatwork",
+        "img": "https://travis-ci.org/sue445/omniauth-chatwork.svg?branch=master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
