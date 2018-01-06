@@ -226,6 +226,16 @@
   },
 
   {
+    "repo_url": "https://github.com/asonas/chatwork-ruby",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/asonas/chatwork-ruby",
+        "img": "https://travis-ci.org/asonas/chatwork-ruby.svg?branch=master"
+      }
+    ]
+  },
+
+  {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
     "badges": [
       {
