@@ -1,12 +1,12 @@
-const app = new Vue({
+var app = new Vue({
   el: '#app',
   data: {
     repositories: []
   },
   methods: {
     getRepositories: function () {
-      const url = 'config/repositories.json';
-      const that = this;
+      var url = 'config/repositories.json';
+      var that = this;
       axios.get(url).then(function (x) {
         that.repositories = x.data.map(function (repo) {
           return that.convertRepository(repo);
@@ -16,7 +16,7 @@ const app = new Vue({
       });
     },
     convertRepository: function (repo) {
-      const matched = repo.repo_url.match(/\/([-\w]+)\/([-\w]+)$/);
+      var matched = repo.repo_url.match(/\/([-\w]+)\/([-\w]+)$/);
       if (matched) {
         repo.name = matched[2];
       } else {
