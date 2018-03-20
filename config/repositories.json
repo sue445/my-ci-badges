@@ -224,6 +224,15 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/cure_line",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/cure_line",
+        "img": "https://travis-ci.org/sue445/cure_line.svg?branch=master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/asonas/chatwork-ruby",
