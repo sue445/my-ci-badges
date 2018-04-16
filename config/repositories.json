@@ -357,8 +357,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tmux",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/f879bd39d3c0a5ac0480cd0286077fa4",
-        "img": "https://app.wercker.com/status/f879bd39d3c0a5ac0480cd0286077fa4/m/master"
+        "url": "https://circleci.com/gh/sue445/itamae-plugin-recipe-tmux/tree/master",
+        "img": "https://circleci.com/gh/sue445/itamae-plugin-recipe-tmux/tree/master.svg?style=svg"
       }
     ]
   },
