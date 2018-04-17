@@ -330,8 +330,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-consul",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/1d28d36364b4f79161fc248c6c934072",
-        "img": "https://app.wercker.com/status/1d28d36364b4f79161fc248c6c934072/m/master"
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul.svg?branch=master"
       }
     ]
   },
