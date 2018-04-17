@@ -339,8 +339,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/7b3074cbef6200439b30ef89eed393df",
-        "img": "https://app.wercker.com/status/7b3074cbef6200439b30ef89eed393df/m/master"
+        "url": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file.svg?branch=master"
       }
     ]
   },
