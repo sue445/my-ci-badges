@@ -366,8 +366,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tig",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/c59024592cbde003c22281c34332be02",
-        "img": "https://app.wercker.com/status/c59024592cbde003c22281c34332be02/m/master"
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig.svg?branch=master"
       }
     ]
   },
