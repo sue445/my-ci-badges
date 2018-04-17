@@ -384,8 +384,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-git_now",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/48a0737824a0f6c97b62ae3ba89a6446",
-        "img": "https://app.wercker.com/status/48a0737824a0f6c97b62ae3ba89a6446/m/master"
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now.svg?branch=master"
       }
     ]
   },
