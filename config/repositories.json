@@ -375,8 +375,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-omori_gohan",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/766847e4b2c442049f1d0c71ecee6de1",
-        "img": "https://app.wercker.com/status/766847e4b2c442049f1d0c71ecee6de1/m/master"
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan.svg?branch=master"
       }
     ]
   },
