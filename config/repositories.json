@@ -243,6 +243,69 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-consul",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/capistrano-itamae",
+    "badges": [
+      {
+        "url": "https://app.wercker.com/project/byKey/a2f734cda581d3d221e10b1ede83bb71",
+        "img": "https://app.wercker.com/status/a2f734cda581d3d221e10b1ede83bb71/m/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tmux",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/itamae-plugin-recipe-tmux/tree/master",
+        "img": "https://circleci.com/gh/sue445/itamae-plugin-recipe-tmux/tree/master.svg?style=svg"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tig",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-omori_gohan",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-git_now",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now.svg?branch=master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
@@ -326,69 +389,6 @@
     ]
   },
 
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-consul",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/capistrano-itamae",
-    "badges": [
-      {
-        "url": "https://app.wercker.com/project/byKey/a2f734cda581d3d221e10b1ede83bb71",
-        "img": "https://app.wercker.com/status/a2f734cda581d3d221e10b1ede83bb71/m/master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tmux",
-    "badges": [
-      {
-        "url": "https://circleci.com/gh/sue445/itamae-plugin-recipe-tmux/tree/master",
-        "img": "https://circleci.com/gh/sue445/itamae-plugin-recipe-tmux/tree/master.svg?style=svg"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tig",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-omori_gohan",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-git_now",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now.svg?branch=master"
-      }
-    ]
-  },
   {
     "repo_url": "https://github.com/sue445/jenkins-backup-script",
     "badges": [
