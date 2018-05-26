@@ -353,6 +353,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/itest5ch",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/itest5ch/tree/master",
+        "img": "https://circleci.com/gh/sue445/itest5ch/tree/master.svg?style=svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/dockerfile-heroku-cli",
     "badges": [
       {
