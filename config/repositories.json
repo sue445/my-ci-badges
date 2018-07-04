@@ -392,8 +392,8 @@
         "img": "https://travis-ci.org/sue445/index_shotgun.svg?branch=master"
       },
       {
-        "url": "https://app.wercker.com/project/byKey/1af95c0c5debe57562ec3036c849f80d",
-        "img": "https://app.wercker.com/status/1af95c0c5debe57562ec3036c849f80d/m/master"
+        "url": "https://circleci.com/gh/sue445/index_shotgun/tree/master",
+        "img": "https://circleci.com/gh/sue445/index_shotgun/tree/master.svg?style=svg"
       }
     ]
   },
