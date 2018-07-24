@@ -262,6 +262,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/rubocop-itamae",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/rubocop-itamae",
+        "img": "https://travis-ci.org/sue445/rubocop-itamae.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/capistrano-itamae",
     "badges": [
       {
