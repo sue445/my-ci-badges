@@ -54,6 +54,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/rspec-time_stop",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/rspec-time_stop",
+        "img": "https://travis-ci.org/sue445/rspec-time_stop.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/sengiri_yaml",
     "badges": [
       {
