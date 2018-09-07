@@ -284,7 +284,7 @@
     "badges": [
       {
         "url": "https://app.wercker.com/project/byKey/a2f734cda581d3d221e10b1ede83bb71",
-        "img": "https://app.wercker.com/status/a2f734cda581d3d221e10b1ede83bb71/m/master"
+        "img": "https://app.wercker.com/status/a2f734cda581d3d221e10b1ede83bb71/s/master"
       }
     ]
   },
@@ -443,7 +443,7 @@
     "badges": [
       {
         "url": "https://app.wercker.com/project/byKey/9ba6925ec9ca9f47898b0fcc4a6bafe6",
-        "img": "https://app.wercker.com/status/9ba6925ec9ca9f47898b0fcc4a6bafe6/m/master"
+        "img": "https://app.wercker.com/status/9ba6925ec9ca9f47898b0fcc4a6bafe6/s/master"
       }
     ]
   },
@@ -452,7 +452,7 @@
     "badges": [
       {
         "url": "https://app.wercker.com/project/byKey/766e3640dce38988ae94a23dd279c71e",
-        "img": "https://app.wercker.com/status/766e3640dce38988ae94a23dd279c71e/m/master"
+        "img": "https://app.wercker.com/status/766e3640dce38988ae94a23dd279c71e/s/master"
       }
     ]
   },
@@ -461,7 +461,7 @@
     "badges": [
       {
         "url": "https://app.wercker.com/project/byKey/17b86a545fd6c33053387b3fe3723796",
-        "img": "https://app.wercker.com/status/17b86a545fd6c33053387b3fe3723796/m/master"
+        "img": "https://app.wercker.com/status/17b86a545fd6c33053387b3fe3723796/s/master"
       }
     ]
   },
@@ -470,7 +470,7 @@
     "badges": [
       {
         "url": "https://app.wercker.com/project/byKey/e4c5f1e0f5898b33ffdc26ca29ef4e2c",
-        "img": "https://app.wercker.com/status/e4c5f1e0f5898b33ffdc26ca29ef4e2c/m/master"
+        "img": "https://app.wercker.com/status/e4c5f1e0f5898b33ffdc26ca29ef4e2c/s/master"
       }
     ]
   },
