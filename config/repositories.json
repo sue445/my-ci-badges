@@ -324,7 +324,15 @@
       }
     ]
   },
-
+  {
+    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-gitlab_runner",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-gitlab_runner",
+        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-gitlab_runner.svg?branch=master"
+      }
+    ]
+  },
   {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
     "badges": [
