@@ -280,6 +280,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/syobocalite",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/syobocalite",
+        "img": "https://travis-ci.org/sue445/syobocalite.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/capistrano-itamae",
     "badges": [
       {
