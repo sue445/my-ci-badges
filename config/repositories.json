@@ -289,6 +289,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/pixela",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/pixela",
+        "img": "https://travis-ci.org/sue445/pixela.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/capistrano-itamae",
     "badges": [
       {
