@@ -93,8 +93,8 @@
     "repo_url": "https://github.com/sue445/apple_system_status",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/apple_system_status",
-        "img": "https://travis-ci.org/sue445/apple_system_status.svg?branch=master"
+        "url": "https://circleci.com/gh/sue445/apple_system_status/tree/master",
+        "img": "https://circleci.com/gh/sue445/apple_system_status/tree/master.svg?style=svg"
       }
     ]
   },
