@@ -360,6 +360,15 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/rubocop_auto_corrector",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/rubocop_auto_corrector",
+        "img": "https://travis-ci.org/sue445/rubocop_auto_corrector.svg?branch=master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
