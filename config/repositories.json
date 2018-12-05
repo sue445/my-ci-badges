@@ -369,6 +369,16 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/tomykaira/rspec-parameterized",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/tomykaira/rspec-parameterized",
+        "img": "https://travis-ci.org/tomykaira/rspec-parameterized.svg?branch=master"
+      }
+    ]
+  },
+
 
   {
     "repo_url": "https://github.com/sue445/ccc_privacy_crawler",
