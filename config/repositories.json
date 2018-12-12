@@ -501,6 +501,15 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/pretty-all-friends-birthday-calendar",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/pretty-all-friends-birthday-calendar/tree/master",
+        "img": "https://circleci.com/gh/sue445/pretty-all-friends-birthday-calendar/tree/master.svg?style=svg"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/sue445/jenkins-backup-script",
