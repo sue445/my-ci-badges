@@ -370,6 +370,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/chatwork_webhook_verify",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/chatwork_webhook_verify",
+        "img": "https://travis-ci.org/sue445/chatwork_webhook_verify.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/tomykaira/rspec-parameterized",
     "badges": [
       {
