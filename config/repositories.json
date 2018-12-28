@@ -510,7 +510,15 @@
       }
     ]
   },
-
+  {
+    "repo_url": "https://github.com/sue445/tweet_pixels",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/tweet_pixels/tree/master",
+        "img": "https://circleci.com/gh/sue445/tweet_pixels/tree/master.svg?style=svg"
+      }
+    ]
+  },
   {
     "repo_url": "https://github.com/sue445/jenkins-backup-script",
     "badges": [
