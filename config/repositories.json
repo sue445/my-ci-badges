@@ -573,5 +573,14 @@
         "img": "https://gitlab.com/sue445/gitlab_awesome_release/badges/master/pipeline.svg"
       }
     ]
+  },
+  {
+    "repo_url": "https://gitlab.com/sue445/gitlabci-bundle-update-mr",
+    "badges": [
+      {
+        "url": "https://gitlab.com/sue445/gitlabci-bundle-update-mr/commits/master",
+        "img": "https://gitlab.com/sue445/gitlabci-bundle-update-mr/badges/master/pipeline.svg"
+      }
+    ]
   }
 ]
