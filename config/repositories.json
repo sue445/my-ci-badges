@@ -207,6 +207,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/gitpanda",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/sue445/gitpanda",
+        "img": "https://travis-ci.org/sue445/gitpanda.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/chrome-gitlab-notifier",
     "badges": [
       {
