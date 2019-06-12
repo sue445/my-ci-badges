@@ -479,6 +479,19 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/dockerfile-awscli-all",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/dockerfile-awscli-all/tree/master",
+        "img": "https://circleci.com/gh/sue445/dockerfile-awscli-all/tree/master.svg?style=svg"
+      },
+      {
+        "url": "https://hub.docker.com/r/sue445/awscli-all/",
+        "img": "https://dockerbuildbadges.quelltext.eu/status.svg?organization=sue445&repository=awscli-all"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/chatwork_mention_task",
     "badges": [
       {
