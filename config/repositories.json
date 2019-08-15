@@ -560,6 +560,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/condo3",
+    "badges": [
+      {
+        "url": "https://circleci.com/gh/sue445/condo3/tree/master",
+        "img": "https://circleci.com/gh/sue445/condo3/tree/master.svg?style=svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/go-doorkeeper",
     "badges": [
       {
