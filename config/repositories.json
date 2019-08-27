@@ -201,8 +201,8 @@
     "repo_url": "https://github.com/sue445/zatsu_monitor",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/zatsu_monitor",
-        "img": "https://travis-ci.org/sue445/zatsu_monitor.svg?branch=master"
+        "url": "https://github.com/sue445/zatsu_monitor/actions",
+        "img": "https://github.com/sue445/zatsu_monitor/workflows/Go/badge.svg"
       }
     ]
   },
