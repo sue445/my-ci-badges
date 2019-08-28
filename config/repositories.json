@@ -126,15 +126,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/activerecord-compatible_legacy_migration",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/activerecord-compatible_legacy_migration",
-        "img": "https://travis-ci.org/sue445/activerecord-compatible_legacy_migration.svg?branch=master"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/twitter_retry",
     "badges": [
       {
@@ -203,6 +194,15 @@
       {
         "url": "https://github.com/sue445/zatsu_monitor/actions",
         "img": "https://github.com/sue445/zatsu_monitor/workflows/Go/badge.svg"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/activerecord-compatible_legacy_migration",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/activerecord-compatible_legacy_migration/actions",
+        "img": "https://github.com/sue445/activerecord-compatible_legacy_migration/workflows/Ruby/badge.svg"
       }
     ]
   },
