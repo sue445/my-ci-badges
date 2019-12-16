@@ -466,12 +466,8 @@
     "repo_url": "https://github.com/sue445/index_shotgun",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/index_shotgun",
-        "img": "https://travis-ci.org/sue445/index_shotgun.svg?branch=master"
-      },
-      {
-        "url": "https://circleci.com/gh/sue445/index_shotgun/tree/master",
-        "img": "https://circleci.com/gh/sue445/index_shotgun/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/index_shotgun/actions",
+        "img": "https://github.com/sue445/index_shotgun/workflows/Build/badge.svg"
       }
     ]
   },
