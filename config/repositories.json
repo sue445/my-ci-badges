@@ -9,15 +9,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/paraduct",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/paraduct",
-        "img": "https://travis-ci.org/sue445/paraduct.svg?branch=master"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/google_holiday_calendar",
     "badges": [
       {
@@ -104,24 +95,6 @@
       {
         "url": "https://travis-ci.org/sue445/date_discreter",
         "img": "https://travis-ci.org/sue445/date_discreter.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/rubygems_check_replacement_vulnerability",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/rubygems_check_replacement_vulnerability",
-        "img": "https://travis-ci.org/sue445/rubygems_check_replacement_vulnerability.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/tweet_validator",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/tweet_validator",
-        "img": "https://travis-ci.org/sue445/tweet_validator.svg?branch=master"
       }
     ]
   },
@@ -230,15 +203,6 @@
       {
         "url": "https://travis-ci.org/sue445/chrome-gitlab-notifier",
         "img": "https://travis-ci.org/sue445/chrome-gitlab-notifier.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/goprecure",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/goprecure",
-        "img": "https://travis-ci.org/sue445/goprecure.svg?branch=master"
       }
     ]
   },
