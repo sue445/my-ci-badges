@@ -3,8 +3,8 @@
     "repo_url": "https://github.com/sue445/rubicure",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/rubicure",
-        "img": "https://travis-ci.org/sue445/rubicure.svg?branch=master"
+        "url": "https://github.com/sue445/rubicure/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/rubicure/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -12,8 +12,8 @@
     "repo_url": "https://github.com/sue445/google_holiday_calendar",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/google_holiday_calendar",
-        "img": "https://travis-ci.org/sue445/google_holiday_calendar.svg?branch=master"
+        "url": "https://github.com/sue445/google_holiday_calendar/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/google_holiday_calendar/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -21,8 +21,8 @@
     "repo_url": "https://github.com/sue445/heart_seed",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/heart_seed",
-        "img": "https://travis-ci.org/sue445/heart_seed.svg?branch=master"
+        "url": "https://github.com/sue445/heart_seed/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/heart_seed/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -30,8 +30,8 @@
     "repo_url": "https://github.com/sue445/activerecord-simple_index_name",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/activerecord-simple_index_name",
-        "img": "https://travis-ci.org/sue445/activerecord-simple_index_name.svg?branch=master"
+        "url": "https://github.com/sue445/activerecord-simple_index_name/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/activerecord-simple_index_name/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -39,8 +39,8 @@
     "repo_url": "https://github.com/sue445/rspec-temp_dir",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/rspec-temp_dir",
-        "img": "https://travis-ci.org/sue445/rspec-temp_dir.svg?branch=master"
+        "url": "https://github.com/sue445/rspec-temp_dir/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/rspec-temp_dir/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -48,8 +48,8 @@
     "repo_url": "https://github.com/sue445/rspec-time_stop",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/rspec-time_stop",
-        "img": "https://travis-ci.org/sue445/rspec-time_stop.svg?branch=master"
+        "url": "https://github.com/sue445/rspec-time_stop/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/rspec-time_stop/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -57,8 +57,8 @@
     "repo_url": "https://github.com/sue445/sengiri_yaml",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/sengiri_yaml",
-        "img": "https://travis-ci.org/sue445/sengiri_yaml.svg?branch=master"
+        "url": "https://github.com/sue445/sengiri_yaml/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/sengiri_yaml/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -66,8 +66,8 @@
     "repo_url": "https://github.com/sue445/gitlab_mr_release",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/gitlab_mr_release",
-        "img": "https://travis-ci.org/sue445/gitlab_mr_release.svg?branch=master"
+        "url": "https://github.com/sue445/gitlab_mr_release/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/gitlab_mr_release/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -75,8 +75,8 @@
     "repo_url": "https://github.com/sue445/faker-precure",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/faker-precure",
-        "img": "https://travis-ci.org/sue445/faker-precure.svg?branch=master"
+        "url": "https://github.com/sue445/faker-precure/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/faker-precure/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -93,8 +93,8 @@
     "repo_url": "https://github.com/sue445/date_discreter",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/date_discreter",
-        "img": "https://travis-ci.org/sue445/date_discreter.svg?branch=master"
+        "url": "https://github.com/sue445/date_discreter/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/date_discreter/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -102,8 +102,8 @@
     "repo_url": "https://github.com/sue445/twitter_retry",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/twitter_retry",
-        "img": "https://travis-ci.org/sue445/twitter_retry.svg?branch=master"
+        "url": "https://github.com/sue445/twitter_retry/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/twitter_retry/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -111,8 +111,8 @@
     "repo_url": "https://github.com/sue445/fluent-plugin-chatwork",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/fluent-plugin-chatwork",
-        "img": "https://travis-ci.org/sue445/fluent-plugin-chatwork.svg?branch=master"
+        "url": "https://github.com/sue445/fluent-plugin-chatwork/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/fluent-plugin-chatwork/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -129,8 +129,8 @@
     "repo_url": "https://github.com/sue445/compact_blank",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/compact_blank",
-        "img": "https://travis-ci.org/sue445/compact_blank.svg?branch=master"
+        "url": "https://github.com/sue445/compact_blank/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/compact_blank/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -138,8 +138,8 @@
     "repo_url": "https://github.com/sue445/faraday_boolean",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/faraday_boolean",
-        "img": "https://travis-ci.org/sue445/faraday_boolean.svg?branch=master"
+        "url": "https://github.com/sue445/faraday_boolean/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/faraday_boolean/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -147,8 +147,8 @@
     "repo_url": "https://github.com/sue445/kiriban_getter",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/kiriban_getter",
-        "img": "https://travis-ci.org/sue445/kiriban_getter.svg?branch=master"
+        "url": "https://github.com/sue445/kiriban_getter/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/kiriban_getter/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -156,8 +156,8 @@
     "repo_url": "https://github.com/sue445/tweet_sanitizer",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/tweet_sanitizer",
-        "img": "https://travis-ci.org/sue445/tweet_sanitizer.svg?branch=master"
+        "url": "https://github.com/sue445/tweet_sanitizer/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/tweet_sanitizer/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -165,8 +165,8 @@
     "repo_url": "https://github.com/sue445/zatsu_monitor",
     "badges": [
       {
-        "url": "https://github.com/sue445/zatsu_monitor/actions",
-        "img": "https://github.com/sue445/zatsu_monitor/workflows/Go/badge.svg"
+        "url": "https://github.com/sue445/zatsu_monitor/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/zatsu_monitor/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -174,8 +174,8 @@
     "repo_url": "https://github.com/sue445/activerecord-compatible_legacy_migration",
     "badges": [
       {
-        "url": "https://github.com/sue445/activerecord-compatible_legacy_migration/actions",
-        "img": "https://github.com/sue445/activerecord-compatible_legacy_migration/workflows/Ruby/badge.svg"
+        "url": "https://github.com/sue445/activerecord-compatible_legacy_migration/actions?query=workflow%3Atest/actions",
+        "img": "https://github.com/sue445/activerecord-compatible_legacy_migration/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -201,8 +201,8 @@
     "repo_url": "https://github.com/sue445/chrome-gitlab-notifier",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/chrome-gitlab-notifier",
-        "img": "https://travis-ci.org/sue445/chrome-gitlab-notifier.svg?branch=master"
+        "url": "https://github.com/sue445/chrome-gitlab-notifier/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/chrome-gitlab-notifier/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -210,8 +210,8 @@
     "repo_url": "https://github.com/sue445/omniauth-chatwork",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/omniauth-chatwork",
-        "img": "https://travis-ci.org/sue445/omniauth-chatwork.svg?branch=master"
+        "url": "https://github.com/sue445/omniauth-chatwork/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/omniauth-chatwork/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -219,8 +219,8 @@
     "repo_url": "https://github.com/sue445/cure_line",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/cure_line",
-        "img": "https://travis-ci.org/sue445/cure_line.svg?branch=master"
+        "url": "https://github.com/sue445/cure_line/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/cure_line/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -238,8 +238,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-consul",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-consul.svg?branch=master"
+        "url": "https://github.com/sue445/itamae-plugin-recipe-consul/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/itamae-plugin-recipe-consul/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -247,8 +247,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-resource-encrypted_remote_file.svg?branch=master"
+        "url": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/itamae-plugin-resource-encrypted_remote_file/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -256,8 +256,8 @@
     "repo_url": "https://github.com/sue445/rubocop-itamae",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/rubocop-itamae",
-        "img": "https://travis-ci.org/sue445/rubocop-itamae.svg?branch=master"
+        "url": "https://github.com/sue445/rubocop-itamae/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/rubocop-itamae/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -265,8 +265,8 @@
     "repo_url": "https://github.com/sue445/syobocalite",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/syobocalite",
-        "img": "https://travis-ci.org/sue445/syobocalite.svg?branch=master"
+        "url": "https://github.com/sue445/syobocalite/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/syobocalite/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -274,8 +274,8 @@
     "repo_url": "https://github.com/sue445/pixela",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/pixela",
-        "img": "https://travis-ci.org/sue445/pixela.svg?branch=master"
+        "url": "https://github.com/sue445/pixela/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/pixela/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -301,8 +301,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-tig",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-tig.svg?branch=master"
+        "url": "https://github.com/sue445/itamae-plugin-recipe-tig/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/itamae-plugin-recipe-tig/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -319,8 +319,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-git_now",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-git_now.svg?branch=master"
+        "url": "https://github.com/sue445/itamae-plugin-recipe-git_now/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/itamae-plugin-recipe-git_now/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -328,8 +328,8 @@
     "repo_url": "https://github.com/sue445/itamae-plugin-recipe-gitlab_runner",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-gitlab_runner",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-gitlab_runner.svg?branch=master"
+        "url": "https://github.com/sue445/itamae-plugin-recipe-gitlab_runner/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/itamae-plugin-recipe-gitlab_runner/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -346,8 +346,8 @@
     "repo_url": "https://github.com/sue445/rubocop_auto_corrector",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/rubocop_auto_corrector",
-        "img": "https://travis-ci.org/sue445/rubocop_auto_corrector.svg?branch=master"
+        "url": "https://github.com/sue445/rubocop_auto_corrector/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/rubocop_auto_corrector/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -355,8 +355,8 @@
     "repo_url": "https://github.com/sue445/chatwork_webhook_verify",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/chatwork_webhook_verify",
-        "img": "https://travis-ci.org/sue445/chatwork_webhook_verify.svg?branch=master"
+        "url": "https://github.com/sue445/chatwork_webhook_verify/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/chatwork_webhook_verify/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -466,8 +466,8 @@
     "repo_url": "https://github.com/sue445/index_shotgun",
     "badges": [
       {
-        "url": "https://github.com/sue445/index_shotgun/actions",
-        "img": "https://github.com/sue445/index_shotgun/workflows/Build/badge.svg"
+        "url": "https://github.com/sue445/index_shotgun/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/index_shotgun/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -529,8 +529,8 @@
     "repo_url": "https://github.com/sue445/go-doorkeeper",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/go-doorkeeper",
-        "img": "https://travis-ci.org/sue445/go-doorkeeper.svg?branch=master"
+        "url": "https://github.com/sue445/go-doorkeeper/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/go-doorkeeper/workflows/test/badge.svg?branch=master"
       }
     ]
   },
@@ -538,8 +538,8 @@
     "repo_url": "https://github.com/sue445/jenkins-backup-script",
     "badges": [
       {
-        "url": "https://travis-ci.org/sue445/jenkins-backup-script",
-        "img": "https://travis-ci.org/sue445/jenkins-backup-script.svg?branch=master"
+        "url": "https://github.com/sue445/jenkins-backup-script/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/jenkins-backup-script/workflows/test/badge.svg?branch=master"
       }
     ]
   },
