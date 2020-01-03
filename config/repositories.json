@@ -283,8 +283,8 @@
     "repo_url": "https://github.com/sue445/capistrano-itamae",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/a2f734cda581d3d221e10b1ede83bb71",
-        "img": "https://app.wercker.com/status/a2f734cda581d3d221e10b1ede83bb71/s/master"
+        "url": "https://github.com/sue445/capistrano-itamae/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/capistrano-itamae/workflows/test/badge.svg?branch=master"
       }
     ]
   },
