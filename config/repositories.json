@@ -185,6 +185,10 @@
       {
         "url": "https://github.com/sue445/plant_erd/actions?query=workflow%3Atest",
         "img": "https://github.com/sue445/plant_erd/workflows/test/badge.svg?branch=master"
+      },
+      {
+        "url": "https://github.com/sue445/plant_erd/actions?query=workflow%3Abuild",
+        "img": "https://github.com/sue445/plant_erd/workflows/build/badge.svg?branch=master"
       }
     ]
   },
