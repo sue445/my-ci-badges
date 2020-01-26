@@ -467,6 +467,15 @@
   },
 
   {
+    "repo_url": "https://github.com/sue445/go-mod-tidy-pr",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/go-mod-tidy-pr/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/go-mod-tidy-pr/workflows/test/badge.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/index_shotgun",
     "badges": [
       {
