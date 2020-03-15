@@ -557,6 +557,24 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/prismdb-ruby",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/prismdb-rubyactions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/prismdb-ruby/workflows/test/badge.svg?branch=master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/faker-pretty_series",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/faker-pretty_series/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/faker-pretty_series/workflows/test/badge.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/cure-bots",
     "badges": [
       {
