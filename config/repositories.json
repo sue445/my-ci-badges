@@ -228,6 +228,15 @@
       }
     ]
   },
+  {
+    "repo_url": "https://github.com/sue445/gcp-kmsenv",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/gcp-kmsenv/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/gcp-kmsenv/workflows/test/badge.svg?branch=master"
+      }
+    ]
+  },
 
   {
     "repo_url": "https://github.com/asonas/chatwork-ruby",
