@@ -251,8 +251,8 @@
     "repo_url": "https://github.com/asonas/chatwork-ruby",
     "badges": [
       {
-        "url": "https://travis-ci.org/asonas/chatwork-ruby",
-        "img": "https://travis-ci.org/asonas/chatwork-ruby.svg?branch=master"
+        "url": "https://github.com/asonas/chatwork-ruby/actions?query=workflow%3Atest",
+        "img": "https://github.com/asonas/chatwork-ruby/workflows/test/badge.svg?branch=master"
       }
     ]
   },
