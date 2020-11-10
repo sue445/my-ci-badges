@@ -635,8 +635,8 @@
     "repo_url": "https://github.com/sue445/cure-bots",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/9ba6925ec9ca9f47898b0fcc4a6bafe6",
-        "img": "https://app.wercker.com/status/9ba6925ec9ca9f47898b0fcc4a6bafe6/s/master"
+        "url": "https://circleci.com/gh/sue445/cure-bots/tree/master",
+        "img": "https://circleci.com/gh/sue445/cure-bots/tree/master.svg?style=svg"
       }
     ]
   },
@@ -644,8 +644,8 @@
     "repo_url": "https://github.com/sue445/cure-mastodon-bots",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/766e3640dce38988ae94a23dd279c71e",
-        "img": "https://app.wercker.com/status/766e3640dce38988ae94a23dd279c71e/s/master"
+        "url": "https://circleci.com/gh/sue445/cure-mastodon-bots/tree/master",
+        "img": "https://circleci.com/gh/sue445/cure-mastodon-bots/tree/master.svg?style=svg"
       }
     ]
   },
@@ -653,8 +653,8 @@
     "repo_url": "https://github.com/sue445/twittodon",
     "badges": [
       {
-        "url": "https://app.wercker.com/project/byKey/17b86a545fd6c33053387b3fe3723796",
-        "img": "https://app.wercker.com/status/17b86a545fd6c33053387b3fe3723796/s/master"
+        "url": "https://circleci.com/gh/sue445/twittodon/tree/master",
+        "img": "https://circleci.com/gh/sue445/twittodon/tree/master.svg?style=svg"
       }
     ]
   },
