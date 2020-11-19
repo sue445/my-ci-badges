@@ -117,15 +117,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/pebbles-tokyu_ruby_kaigi",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/pebbles-tokyu_ruby_kaigi",
-        "img": "https://travis-ci.org/sue445/pebbles-tokyu_ruby_kaigi.svg?branch=master"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/compact_blank",
     "badges": [
       {
@@ -325,15 +316,6 @@
       {
         "url": "https://github.com/sue445/itamae-plugin-recipe-tig/actions?query=workflow%3Atest",
         "img": "https://github.com/sue445/itamae-plugin-recipe-tig/workflows/test/badge.svg?branch=master"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/itamae-plugin-recipe-omori_gohan",
-    "badges": [
-      {
-        "url": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan",
-        "img": "https://travis-ci.org/sue445/itamae-plugin-recipe-omori_gohan.svg?branch=master"
       }
     ]
   },
