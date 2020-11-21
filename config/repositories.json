@@ -651,6 +651,34 @@
   },
 
   {
+    "repo_url": "https://github.com/jenkinsci/chatwork-plugin",
+    "badges": [
+      {
+        "url": "https://ci.jenkins.io/job/Plugins/job/chatwork-plugin/job/master/",
+        "img": "https://ci.jenkins.io/buildStatus/icon?job=Plugins/chatwork-plugin/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/jenkinsci/gitlab-logo-plugin",
+    "badges": [
+      {
+        "url": "https://ci.jenkins.io/job/Plugins/job/gitlab-logo-plugin/job/master/",
+        "img": "https://ci.jenkins.io/buildStatus/icon?job=Plugins/gitlab-logo-plugin/master"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/jenkinsci/yaml-axis-plugin",
+    "badges": [
+      {
+        "url": "https://ci.jenkins.io/job/Plugins/job/yaml-axis-plugin/job/master/",
+        "img": "https://ci.jenkins.io/buildStatus/icon?job=Plugins/yaml-axis-plugin/master"
+      }
+    ]
+  },
+
+  {
     "repo_url": "https://gitlab.com/sue445/gitlab_awesome_release",
     "badges": [
       {
