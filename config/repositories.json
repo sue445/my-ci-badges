@@ -454,8 +454,12 @@
     "repo_url": "https://github.com/sue445/dockerfile-heroku-cli",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/dockerfile-heroku-cli/tree/master",
-        "img": "https://circleci.com/gh/sue445/dockerfile-heroku-cli/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/dockerfile-heroku-cli/actions?query=workflow%3Abuild",
+        "img": "https://github.com/sue445/dockerfile-heroku-cli/workflows/build/badge.svg?branch=master"
+      },
+      {
+        "url": "https://github.com/sue445/dockerfile-heroku-cli/actions?query=workflow%3Aupdate_version",
+        "img": "https://github.com/sue445/dockerfile-heroku-cli/workflows/update_version/badge.svg?branch=master"
       }
     ]
   },
@@ -463,8 +467,12 @@
     "repo_url": "https://github.com/sue445/dockerfile-vagrant-aws",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/dockerfile-vagrant-aws/tree/master",
-        "img": "https://circleci.com/gh/sue445/dockerfile-vagrant-aws/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions?query=workflow%3Abuild",
+        "img": "https://github.com/sue445/dockerfile-vagrant-aws/workflows/build/badge.svg?branch=master"
+      },
+      {
+        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions?query=workflow%3Aupdate_version",
+        "img": "https://github.com/sue445/dockerfile-vagrant-aws/workflows/update_version/badge.svg?branch=master"
       }
     ]
   },
@@ -472,8 +480,12 @@
     "repo_url": "https://github.com/sue445/dockerfile-awscli-all",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/dockerfile-awscli-all/tree/master",
-        "img": "https://circleci.com/gh/sue445/dockerfile-awscli-all/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/dockerfile-awscli-all/actions?query=workflow%3Abuild",
+        "img": "https://github.com/sue445/dockerfile-awscli-all/workflows/build/badge.svg?branch=master"
+      },
+      {
+        "url": "https://github.com/sue445/dockerfile-awscli-all/actions?query=workflow%3Aupdate_version",
+        "img": "https://github.com/sue445/dockerfile-awscli-all/workflows/update_version/badge.svg?branch=master"
       }
     ]
   },
