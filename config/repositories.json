@@ -341,8 +341,8 @@
     "repo_url": "https://github.com/itamae-kitchen/itamae",
     "badges": [
       {
-        "url": "https://travis-ci.com/itamae-kitchen/itamae",
-        "img": "https://travis-ci.com/itamae-kitchen/itamae.svg?branch=master"
+        "url": "https://github.com/itamae-kitchen/itamae/actions?query=workflow%3Atest",
+        "img": "https://github.com/itamae-kitchen/itamae/workflows/test/badge.svg?branch=master"
       }
     ]
   },
