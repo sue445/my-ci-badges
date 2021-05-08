@@ -424,15 +424,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/rubicure_api",
-    "badges": [
-      {
-        "url": "https://circleci.com/gh/sue445/rubicure_api/tree/master",
-        "img": "https://circleci.com/gh/sue445/rubicure_api/tree/master.svg?style=svg"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/dockerhub-slack-webhook",
     "badges": [
       {
