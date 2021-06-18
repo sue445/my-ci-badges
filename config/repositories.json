@@ -611,7 +611,7 @@
     "repo_url": "https://github.com/sue445/prismdb-ruby",
     "badges": [
       {
-        "url": "https://github.com/sue445/prismdb-rubyactions?query=workflow%3Atest",
+        "url": "https://github.com/sue445/prismdb-ruby/actions?query=workflow%3Atest",
         "img": "https://github.com/sue445/prismdb-ruby/workflows/test/badge.svg?branch=master"
       }
     ]
