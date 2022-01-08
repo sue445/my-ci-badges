@@ -626,6 +626,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/faraday-mashify",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/faraday-mashify/actions?query=workflow%3ACI",
+        "img": "https://github.com/sue445/faraday-mashify/workflows/CI/badge.svg?branch=main"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/cure-bots",
     "badges": [
       {
