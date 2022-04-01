@@ -365,6 +365,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/itamae-plugins/itamae-plugin-recipe-datadog",
+    "badges": [
+      {
+        "url": "https://github.com/itamae-plugins/itamae-plugin-recipe-datadog/actions?query=workflow%3Atest",
+        "img": "https://github.com/itamae-plugins/itamae-plugin-recipe-datadog/workflows/test/badge.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/tomykaira/rspec-parameterized",
     "badges": [
       {
