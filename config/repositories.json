@@ -369,6 +369,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/mysql2-nested_hash_bind",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/mysql2-nested_hash_bind/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/mysql2-nested_hash_bind/workflows/test/badge.svg?branch=master"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/itamae-plugins/itamae-plugin-recipe-datadog",
     "badges": [
       {
