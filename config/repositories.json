@@ -373,7 +373,16 @@
     "badges": [
       {
         "url": "https://github.com/sue445/mysql2-nested_hash_bind/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/mysql2-nested_hash_bind/workflows/test/badge.svg?branch=master"
+        "img": "https://github.com/sue445/mysql2-nested_hash_bind/workflows/test/badge.svg?branch=main"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/sue445/datadog_thread_tracer",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/datadog_thread_tracer/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/datadog_thread_tracer/workflows/test/badge.svg?branch=main"
       }
     ]
   },
