@@ -400,7 +400,7 @@
     "badges": [
       {
         "url": "https://github.com/itamae-plugins/itamae-plugin-recipe-rust/actions?query=workflow%3Atest",
-        "img": "https://github.com/itamae-plugins/itamae-plugin-recipe-rust/workflows/test/badge.svg?branch=master"
+        "img": "https://github.com/itamae-plugins/itamae-plugin-recipe-rust/workflows/test/badge.svg?branch=main"
       }
     ]
   },
