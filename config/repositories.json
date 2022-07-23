@@ -387,6 +387,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/rubocop-isucon",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/rubocop-isucon/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/rubocop-isucon/workflows/test/badge.svg?branch=main"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/itamae-plugins/itamae-plugin-recipe-datadog",
     "badges": [
       {
