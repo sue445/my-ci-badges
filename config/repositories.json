@@ -684,6 +684,23 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/myapp_version_upgrader",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/myapp_version_upgrader/actions/workflows/upgrade_go.yml",
+        "img": "https://github.com/sue445/myapp_version_upgrader/actions/workflows/upgrade_go.yml/badge.svg"
+      },
+      {
+        "url": "https://github.com/sue445/myapp_version_upgrader/actions/workflows/upgrade_ruby.yml",
+        "img": "https://github.com/sue445/myapp_version_upgrader/actions/workflows/upgrade_ruby.yml/badge.svg"
+      },
+      {
+        "url": "https://github.com/sue445/myapp_version_upgrader/actions/workflows/upgrade_terraform.yml",
+        "img": "https://github.com/sue445/myapp_version_upgrader/actions/workflows/upgrade_terraform.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/cure-bots",
     "badges": [
       {
