@@ -610,8 +610,8 @@
         "img": "https://circleci.com/gh/sue445/emoy_webhook/tree/main.svg?style=svg"
       },
       {
-        "url": "https://github.com/sue445/emoy_webhook/actions/workflows/docker.yml",
-        "img": "https://github.com/sue445/emoy_webhook/actions/workflows/docker.yml/badge.svg"
+        "url": "https://github.com/sue445/emoy_webhook/actions/workflows/docker-ghcr.yml",
+        "img": "https://github.com/sue445/emoy_webhook/actions/workflows/docker-ghcr.yml/badge.svg"
       }
     ]
   },
