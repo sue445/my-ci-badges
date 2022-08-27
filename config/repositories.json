@@ -606,8 +606,12 @@
     "repo_url": "https://github.com/sue445/emoy_webhook",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/emoy_webhook/tree/master",
-        "img": "https://circleci.com/gh/sue445/emoy_webhook/tree/master.svg?style=svg"
+        "url": "https://circleci.com/gh/sue445/emoy_webhook/tree/main",
+        "img": "https://circleci.com/gh/sue445/emoy_webhook/tree/main.svg?style=svg"
+      },
+      {
+        "url": "https://github.com/sue445/emoy_webhook/actions/workflows/docker.yml",
+        "img": "https://github.com/sue445/emoy_webhook/actions/workflows/docker.yml/badge.svg"
       }
     ]
   },
