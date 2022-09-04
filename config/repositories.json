@@ -632,8 +632,8 @@
     "repo_url": "https://github.com/sue445/regional-rb-calendar",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/regional-rb-calendar/tree/master",
-        "img": "https://circleci.com/gh/sue445/regional-rb-calendar/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/regional-rb-calendar/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/regional-rb-calendar/actions/workflows/build.yml/badge.svg"
       }
     ]
   },
