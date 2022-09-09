@@ -459,24 +459,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/sebastian-badge",
-    "badges": [
-      {
-        "url": "https://circleci.com/gh/sue445/sebastian-badge/tree/master",
-        "img": "https://circleci.com/gh/sue445/sebastian-badge/tree/master.svg?style=svg"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/app-stat-api",
-    "badges": [
-      {
-        "url": "https://circleci.com/gh/sue445/app-stat-api/tree/master",
-        "img": "https://circleci.com/gh/sue445/app-stat-api/tree/master.svg?style=svg"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/dockerhub-slack-webhook",
     "badges": [
       {
@@ -533,16 +515,6 @@
       }
     ]
   },
-  {
-    "repo_url": "https://github.com/sue445/chatwork_mention_task",
-    "badges": [
-      {
-        "url": "https://circleci.com/gh/sue445/chatwork_mention_task/tree/master",
-        "img": "https://circleci.com/gh/sue445/chatwork_mention_task/tree/master.svg?style=svg"
-      }
-    ]
-  },
-
   {
     "repo_url": "https://github.com/sue445/go-mod-tidy-pr",
     "badges": [
@@ -723,15 +695,6 @@
       {
         "url": "https://circleci.com/gh/sue445/cure-mastodon-bots/tree/master",
         "img": "https://circleci.com/gh/sue445/cure-mastodon-bots/tree/master.svg?style=svg"
-      }
-    ]
-  },
-  {
-    "repo_url": "https://github.com/sue445/twittodon",
-    "badges": [
-      {
-        "url": "https://circleci.com/gh/sue445/twittodon/tree/master",
-        "img": "https://circleci.com/gh/sue445/twittodon/tree/master.svg?style=svg"
       }
     ]
   },
