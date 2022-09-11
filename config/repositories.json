@@ -464,6 +464,14 @@
       {
         "url": "https://circleci.com/gh/sue445/dockerhub-slack-webhook/tree/master",
         "img": "https://circleci.com/gh/sue445/dockerhub-slack-webhook/tree/master.svg?style=svg"
+      },
+      {
+        "url": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/docker-gcp.yml",
+        "img": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/docker-gcp.yml/badge.svg"
+      },
+      {
+        "url": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/docker-ghcr.yml",
+        "img": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/docker-ghcr.yml/badge.svg"
       }
     ]
   },
