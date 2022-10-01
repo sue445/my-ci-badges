@@ -117,15 +117,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/compact_blank",
-    "badges": [
-      {
-        "url": "https://github.com/sue445/compact_blank/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/compact_blank/workflows/test/badge.svg?branch=master"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/faraday_boolean",
     "badges": [
       {
