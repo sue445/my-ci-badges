@@ -649,7 +649,7 @@
     "badges": [
       {
         "url": "https://github.com/sue445/doorkeeper_jp/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/doorkeeper_jp/workflows/test/badge.svg?branch=master"
+        "img": "https://github.com/sue445/doorkeeper_jp/workflows/test/badge.svg?branch=main"
       }
     ]
   },
