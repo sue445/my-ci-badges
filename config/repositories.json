@@ -697,15 +697,6 @@
       }
     ]
   },
-  {
-    "repo_url": "https://github.com/sue445/wercker_build_trigger",
-    "badges": [
-      {
-        "url": "https://app.wercker.com/project/byKey/e4c5f1e0f5898b33ffdc26ca29ef4e2c",
-        "img": "https://app.wercker.com/status/e4c5f1e0f5898b33ffdc26ca29ef4e2c/s/master"
-      }
-    ]
-  },
 
   {
     "repo_url": "https://github.com/jenkinsci/chatwork-plugin",
