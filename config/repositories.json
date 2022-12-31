@@ -418,6 +418,24 @@
     ]
   },
   {
+    "repo_url": "https://github.com/rspec-parameterized/rspec-parameterized-core",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-core",
+        "img": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-core.svg?branch=main"
+      }
+    ]
+  },
+  {
+    "repo_url": "https://github.com/rspec-parameterized/rspec-parameterized-table_syntax",
+    "badges": [
+      {
+        "url": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-table_syntax",
+        "img": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-table_syntax.svg?branch=main"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/primap",
     "badges": [
       {
