@@ -412,8 +412,8 @@
     "repo_url": "https://github.com/tomykaira/rspec-parameterized",
     "badges": [
       {
-        "url": "https://travis-ci.org/tomykaira/rspec-parameterized",
-        "img": "https://travis-ci.org/tomykaira/rspec-parameterized.svg?branch=master"
+        "url": "https://github.com/tomykaira/rspec-parameterized/actions/workflows/rspec.ym",
+        "img": "https://github.com/tomykaira/rspec-parameterized/actions/workflows/rspec.yml/badge.svg"
       }
     ]
   },
@@ -421,8 +421,8 @@
     "repo_url": "https://github.com/rspec-parameterized/rspec-parameterized-core",
     "badges": [
       {
-        "url": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-core",
-        "img": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-core.svg?branch=main"
+        "url": "https://github.com/rspec-parameterized/rspec-parameterized-core/actions/workflows/rspec.ym",
+        "img": "https://github.com/rspec-parameterized/rspec-parameterized-core/actions/workflows/rspec.yml/badge.svg"
       }
     ]
   },
@@ -430,8 +430,8 @@
     "repo_url": "https://github.com/rspec-parameterized/rspec-parameterized-table_syntax",
     "badges": [
       {
-        "url": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-table_syntax",
-        "img": "https://travis-ci.org/rspec-parameterized/rspec-parameterized-table_syntax.svg?branch=main"
+        "url": "https://github.com/rspec-parameterized/rspec-parameterized-table_syntax/actions/workflows/rspec.ym",
+        "img": "https://github.com/rspec-parameterized/rspec-parameterized-table_syntax/actions/workflows/rspec.yml/badge.svg"
       }
     ]
   },
