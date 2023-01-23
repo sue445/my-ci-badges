@@ -483,8 +483,8 @@
     "repo_url": "https://github.com/sue445/itest5ch",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/itest5ch/tree/master",
-        "img": "https://circleci.com/gh/sue445/itest5ch/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/itest5ch/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/itest5ch/actions/workflows/test.yml/badge.svg"
       }
     ]
   },
