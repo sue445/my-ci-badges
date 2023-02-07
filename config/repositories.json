@@ -466,8 +466,8 @@
     "repo_url": "https://github.com/sue445/dockerhub-slack-webhook",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/dockerhub-slack-webhook/tree/main",
-        "img": "https://circleci.com/gh/sue445/dockerhub-slack-webhook/tree/main.svg?style=svg"
+        "url": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/test.yml/badge.svg"
       },
       {
         "url": "https://github.com/sue445/dockerhub-slack-webhook/actions/workflows/docker-gcp.yml",
