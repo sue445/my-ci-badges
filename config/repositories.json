@@ -531,8 +531,8 @@
     "repo_url": "https://github.com/sue445/dockerfile-packer-serverspec",
     "badges": [
       {
-        "url": "https://github.com/sue445/dockerfile-packer-serverspec/actions/workflows/docker-ghcr.yml/badge.svg",
-        "img": "https://github.com/sue445/dockerfile-packer-serverspec/actions/workflows/docker-ghcr.yml"
+        "url": "https://github.com/sue445/dockerfile-packer-serverspec/actions/workflows/docker-ghcr.yml",
+        "img": "https://github.com/sue445/dockerfile-packer-serverspec/actions/workflows/docker-ghcr.yml/badge.svg"
       },
       {
         "url": "https://dl.circleci.com/status-badge/redirect/gh/sue445/dockerfile-packer-serverspec/tree/main",
