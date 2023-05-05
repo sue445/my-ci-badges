@@ -18,15 +18,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/heart_seed",
-    "badges": [
-      {
-        "url": "https://github.com/sue445/heart_seed/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/heart_seed/workflows/test/badge.svg?branch=master"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/activerecord-simple_index_name",
     "badges": [
       {
