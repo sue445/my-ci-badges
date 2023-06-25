@@ -633,8 +633,8 @@
     "repo_url": "https://github.com/sue445/pribirthdaybot",
     "badges": [
       {
-        "url": "https://circleci.com/gh/sue445/pribirthdaybot/tree/master",
-        "img": "https://circleci.com/gh/sue445/pribirthdaybot/tree/master.svg?style=svg"
+        "url": "https://github.com/sue445/pribirthdaybot/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/pribirthdaybot/actions/workflows/build.yml/badge.svg"
       }
     ]
   },
