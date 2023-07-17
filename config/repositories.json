@@ -710,6 +710,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/yhara/simple_twitter",
+    "badges": [
+      {
+        "url": "https://github.com/yhara/simple_twitter/actions/workflows/test.yml",
+        "img": "https://github.com/yhara/simple_twitter/actions/workflows/test.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/cure-bots",
     "badges": [
       {
