@@ -675,6 +675,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/kagaribi",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/kagaribi/actions?query=workflow%3Atest",
+        "img": "https://github.com/sue445/kagaribi/workflows/test/badge.svg?branch=main"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/faraday-mashify",
     "badges": [
       {
