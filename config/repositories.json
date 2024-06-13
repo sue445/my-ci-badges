@@ -187,6 +187,23 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/feed_squeezer",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/feed_squeezer/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/feed_squeezer/actions/workflows/test.yml/badge.svg"
+      },
+      {
+        "url": "https://github.com/sue445/feed_squeezer/actions/workflows/docker-ghcr.yml",
+        "img": "https://github.com/sue445/feed_squeezer/actions/workflows/docker-ghcr.yml/badge.svg"
+      },
+      {
+        "url": "https://github.com/sue445/feed_squeezer/actions/workflows/docker-gcp.yml",
+        "img": "https://github.com/sue445/feed_squeezer/actions/workflows/docker-gcp.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/chrome-tanuki-notifier",
     "badges": [
       {
