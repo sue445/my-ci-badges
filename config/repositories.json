@@ -204,6 +204,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/terraform-version-updater",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/terraform-version-updater/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/terraform-version-updater/actions/workflows/test.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/chrome-tanuki-notifier",
     "badges": [
       {
