@@ -801,6 +801,15 @@
     ]
   },
   {
+    "repo_url": "https://gitlab.com/sue445/create-merge-request",
+    "badges": [
+      {
+        "url": "https://gitlab.com/sue445/create-merge-request/-/pipelines",
+        "img": "https://gitlab.com/sue445/create-merge-request/badges/main/pipeline.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://gitlab.com/sue445/gitlabci-bundle-update-mr",
     "badges": [
       {
