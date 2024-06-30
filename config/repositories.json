@@ -787,7 +787,7 @@
     "badges": [
       {
         "url": "https://gitlab.com/sue445/gitlab_awesome_release/commits/master",
-        "img": "https://gitlab.com/sue445/gitlab_awesome_release/badges/master/pipeline.svg"
+        "img": "https://gitlab.com/sue445/gitlab_awesome_release/badges/master/pipeline.svg?ignore_skipped=true"
       }
     ]
   },
@@ -796,7 +796,7 @@
     "badges": [
       {
         "url": "https://gitlab.com/sue445/tanuki_reminder/commits/master",
-        "img": "https://gitlab.com/sue445/tanuki_reminder/badges/master/pipeline.svg"
+        "img": "https://gitlab.com/sue445/tanuki_reminder/badges/master/pipeline.svg?ignore_skipped=true"
       }
     ]
   },
@@ -805,7 +805,7 @@
     "badges": [
       {
         "url": "https://gitlab.com/sue445/create-merge-request/-/pipelines",
-        "img": "https://gitlab.com/sue445/create-merge-request/badges/main/pipeline.svg"
+        "img": "https://gitlab.com/sue445/create-merge-request/badges/main/pipeline.svg?ignore_skipped=true"
       }
     ]
   },
@@ -814,7 +814,7 @@
     "badges": [
       {
         "url": "https://gitlab.com/sue445/gitlabci-bundle-update-mr/commits/master",
-        "img": "https://gitlab.com/sue445/gitlabci-bundle-update-mr/badges/master/pipeline.svg"
+        "img": "https://gitlab.com/sue445/gitlabci-bundle-update-mr/badges/master/pipeline.svg?ignore_skipped=true"
       }
     ]
   }
