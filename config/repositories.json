@@ -213,15 +213,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/chrome-tanuki-notifier",
-    "badges": [
-      {
-        "url": "https://github.com/sue445/chrome-tanuki-notifier/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/chrome-tanuki-notifier/workflows/test/badge.svg?branch=master"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/omniauth-chatwork",
     "badges": [
       {
