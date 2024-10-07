@@ -536,6 +536,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/go-gem-wrapper",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/go-gem-wrapper/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/go-gem-wrapper/actions/workflows/build.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/dockerfile-packer-serverspec",
     "badges": [
       {
