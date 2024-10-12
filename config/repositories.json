@@ -545,6 +545,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/ruby_header_parser",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/ruby_header_parser/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/ruby_header_parser/actions/workflows/test.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/dockerfile-packer-serverspec",
     "badges": [
       {
