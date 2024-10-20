@@ -536,11 +536,11 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/go-gem-wrapper",
+    "repo_url": "https://github.com/ruby-go-gem/go-gem-wrapper",
     "badges": [
       {
-        "url": "https://github.com/sue445/go-gem-wrapper/actions/workflows/build.yml",
-        "img": "https://github.com/sue445/go-gem-wrapper/actions/workflows/build.yml/badge.svg"
+        "url": "https://github.com/ruby-go-gem/go-gem-wrapper/actions/workflows/build.yml",
+        "img": "https://github.com/ruby-go-gem/go-gem-wrapper/actions/workflows/build.yml/badge.svg"
       }
     ]
   },
