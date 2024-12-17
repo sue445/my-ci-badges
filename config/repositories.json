@@ -187,6 +187,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/funnel_http",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/funnel_http/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/funnel_http/actions/workflows/build.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/feed_squeezer",
     "badges": [
       {
