@@ -252,8 +252,8 @@
     "repo_url": "https://github.com/sue445/gcp-secretmanagerenv",
     "badges": [
       {
-        "url": "https://github.com/sue445/gcp-secretmanagerenv/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/gcp-secretmanagerenv/workflows/test/badge.svg?branch=master"
+        "url": "https://github.com/sue445/gcp-secretmanagerenv/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/gcp-secretmanagerenv/actions/workflows/test.yml/badge.svg"
       }
     ]
   },
