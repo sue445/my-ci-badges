@@ -262,8 +262,8 @@
     "repo_url": "https://github.com/asonas/chatwork-ruby",
     "badges": [
       {
-        "url": "https://github.com/asonas/chatwork-ruby/actions?query=workflow%3Atest",
-        "img": "https://github.com/asonas/chatwork-ruby/workflows/test/badge.svg?branch=master"
+        "url": "https://github.com/asonas/chatwork-ruby/actions/workflows/test.yml",
+        "img": "https://github.com/asonas/chatwork-ruby/actions/workflows/test.yml/badge.svg"
       }
     ]
   },
@@ -486,12 +486,12 @@
     "repo_url": "https://github.com/sue445/dockerfile-heroku-cli",
     "badges": [
       {
-        "url": "https://github.com/sue445/dockerfile-heroku-cli/actions?query=workflow%3Abuild",
-        "img": "https://github.com/sue445/dockerfile-heroku-cli/workflows/build/badge.svg?branch=master"
+        "url": "https://github.com/sue445/dockerfile-heroku-cli/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/dockerfile-heroku-cli/actions/workflows/build.yml/badge.svg"
       },
       {
-        "url": "https://github.com/sue445/dockerfile-heroku-cli/actions?query=workflow%3Aupdate_version",
-        "img": "https://github.com/sue445/dockerfile-heroku-cli/workflows/update_version/badge.svg?branch=master"
+        "url": "https://github.com/sue445/dockerfile-heroku-cli/actions/workflows/update_version.yml",
+        "img": "https://github.com/sue445/dockerfile-heroku-cli/actions/workflows/update_version.yml/badge.svg"
       }
     ]
   },
@@ -499,12 +499,12 @@
     "repo_url": "https://github.com/sue445/dockerfile-vagrant-aws",
     "badges": [
       {
-        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions?query=workflow%3Abuild",
-        "img": "https://github.com/sue445/dockerfile-vagrant-aws/workflows/build/badge.svg?branch=master"
+        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/build.yml/badge.svg"
       },
       {
-        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions?query=workflow%3Aupdate_version",
-        "img": "https://github.com/sue445/dockerfile-vagrant-aws/workflows/update_version/badge.svg?branch=master"
+        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/update_version.yml",
+        "img": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/update_version.yml/badge.svg"
       }
     ]
   },
@@ -512,12 +512,12 @@
     "repo_url": "https://github.com/sue445/dockerfile-awscli-all",
     "badges": [
       {
-        "url": "https://github.com/sue445/dockerfile-awscli-all/actions?query=workflow%3Abuild",
-        "img": "https://github.com/sue445/dockerfile-awscli-all/workflows/build/badge.svg?branch=master"
+        "url": "https://github.com/sue445/dockerfile-awscli-all/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/dockerfile-awscli-all/actions/workflows/build.yml/badge.svg"
       },
       {
-        "url": "https://github.com/sue445/dockerfile-awscli-all/actions?query=workflow%3Aupdate_version",
-        "img": "https://github.com/sue445/dockerfile-awscli-all/workflows/update_version/badge.svg?branch=master"
+        "url": "https://github.com/sue445/dockerfile-awscli-all/actions/workflows/update_version.yml",
+        "img": "https://github.com/sue445/dockerfile-awscli-all/actions/workflows/update_version.yml/badge.svg"
       }
     ]
   },
@@ -663,8 +663,8 @@
     "repo_url": "https://github.com/sue445/jenkins-backup-script",
     "badges": [
       {
-        "url": "https://github.com/sue445/jenkins-backup-script/actions?query=workflow%3Atest",
-        "img": "https://github.com/sue445/jenkins-backup-script/workflows/test/badge.svg?branch=master"
+        "url": "https://github.com/sue445/jenkins-backup-script/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/jenkins-backup-script/actions/workflows/test.yml/badge.svg"
       }
     ]
   },
