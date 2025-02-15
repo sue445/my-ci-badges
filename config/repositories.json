@@ -492,6 +492,10 @@
       {
         "url": "https://github.com/sue445/dockerfile-heroku-cli/actions/workflows/update_version.yml",
         "img": "https://github.com/sue445/dockerfile-heroku-cli/actions/workflows/update_version.yml/badge.svg"
+      },
+      {
+        "url": "https://circleci.com/gh/sue445/dockerfile-heroku-cli/tree/master",
+        "img": "https://circleci.com/gh/sue445/dockerfile-heroku-cli/tree/master.svg?style=svg"
       }
     ]
   },
@@ -505,6 +509,10 @@
       {
         "url": "https://github.com/sue445/dockerfile-awscli-all/actions/workflows/update_version.yml",
         "img": "https://github.com/sue445/dockerfile-awscli-all/actions/workflows/update_version.yml/badge.svg"
+      },
+      {
+        "url": "https://circleci.com/gh/sue445/dockerfile-awscli-all/tree/master",
+        "img": "https://circleci.com/gh/sue445/dockerfile-awscli-all/tree/master.svg?style=svg"
       }
     ]
   },
