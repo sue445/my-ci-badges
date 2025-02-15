@@ -496,19 +496,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/dockerfile-vagrant-aws",
-    "badges": [
-      {
-        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/build.yml",
-        "img": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/build.yml/badge.svg"
-      },
-      {
-        "url": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/update_version.yml",
-        "img": "https://github.com/sue445/dockerfile-vagrant-aws/actions/workflows/update_version.yml/badge.svg"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/dockerfile-awscli-all",
     "badges": [
       {
