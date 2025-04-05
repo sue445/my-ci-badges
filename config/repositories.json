@@ -483,6 +483,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/connpass_api_v2-ruby",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/connpass_api_v2-ruby/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/connpass_api_v2-ruby/actions/workflows/test.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/dockerfile-heroku-cli",
     "badges": [
       {
