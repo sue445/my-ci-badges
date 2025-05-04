@@ -126,11 +126,11 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/tweet_sanitizer",
+    "repo_url": "https://github.com/sue445/x_post_sanitizer",
     "badges": [
       {
-        "url": "https://github.com/sue445/tweet_sanitizer/actions/workflows/test.yml",
-        "img": "https://github.com/sue445/tweet_sanitizer/actions/workflows/test.yml/badge.svg"
+        "url": "https://github.com/sue445/x_post_sanitizer/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/x_post_sanitizer/actions/workflows/test.yml/badge.svg"
       }
     ]
   },
