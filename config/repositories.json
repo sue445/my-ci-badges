@@ -753,11 +753,11 @@
     ]
   },
   {
-    "repo_url": "https://gitlab.com/sue445/cure-mastodon-bots",
+    "repo_url": "https://github.com/sue445/cure-mastodon-bots",
     "badges": [
       {
-        "url": "https://gitlab.com/sue445/cure-mastodon-bots/-/pipelines",
-        "img": "https://gitlab.com/sue445/cure-mastodon-bots/badges/master/pipeline.svg?ignore_skipped=true"
+        "url": "https://circleci.com/gh/sue445/cure-mastodon-bots/tree/master",
+        "img": "https://circleci.com/gh/sue445/cure-mastodon-bots/tree/master.svg?style=svg"
       }
     ]
   },
