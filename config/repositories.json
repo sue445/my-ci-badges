@@ -739,16 +739,20 @@
     "repo_url": "https://github.com/sue445/sashimi_tanpopo-personal",
     "badges": [
       {
-        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/upgrade_go.yml",
-        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/upgrade_go.yml/badge.svg"
+        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/go_upgrade_version.yml",
+        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/go_upgrade_version.yml/badge.svg"
       },
       {
-        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/upgrade_ruby.yml",
-        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/upgrade_ruby.yml/badge.svg"
+        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_upgrade_version.yml",
+        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_upgrade_version.yml/badge.svg"
       },
       {
-        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/upgrade_terraform.yml",
-        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/upgrade_terraform.yml/badge.svg"
+        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_gem.yml",
+        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_gem.yml/badge.svg"
+      },
+      {
+        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/terraform_upgrade_version.yml",
+        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/terraform_upgrade_version.yml/badge.svg"
       }
     ]
   },
