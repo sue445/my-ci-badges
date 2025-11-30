@@ -90,15 +90,6 @@
     ]
   },
   {
-    "repo_url": "https://github.com/sue445/twitter_retry",
-    "badges": [
-      {
-        "url": "https://github.com/sue445/twitter_retry/actions/workflows/test.yml",
-        "img": "https://github.com/sue445/twitter_retry/actions/workflows/test.yml/badge.svg"
-      }
-    ]
-  },
-  {
     "repo_url": "https://github.com/sue445/fluent-plugin-chatwork",
     "badges": [
       {
