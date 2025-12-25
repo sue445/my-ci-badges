@@ -718,6 +718,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/workflows",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/workflows/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/workflows/actions/workflows/test.yml/badge.svg?branch=main"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/faraday-mashify",
     "badges": [
       {
