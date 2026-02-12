@@ -178,6 +178,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/gitpanda_fetcher",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/gitpanda_fetcher/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/gitpanda_fetcher/actions/workflows/test.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/funnel_http",
     "badges": [
       {
