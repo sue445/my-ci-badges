@@ -5,15 +5,27 @@ const app = Vue.createApp({
     };
   },
   methods: {
-    getRepositories() {
+    async getRepositories() {
       const url = 'config/repositories.json';
-      axios.get(url).then((response) => {
-        this.repositories = response.data.map((repo) => {
+
+      try {
+        const response = await fetch(url);
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        this.repositories = data.map((repo) => {
           return this.convertRepository(repo);
         }).sort((a, b) => {
           return this.compareString(a.name, b.name);
         });
-      });
+
+      } catch (error) {
+        console.error('getRepositories is failed:', error);
+      }
     },
     convertRepository(repo) {
       const matched = repo.repo_url.match(/\/([-\w]+)\/([-\w]+)$/);
