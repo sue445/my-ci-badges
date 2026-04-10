@@ -739,8 +739,8 @@
     "repo_url": "https://github.com/sue445/faraday-mashify",
     "badges": [
       {
-        "url": "https://github.com/sue445/faraday-mashify/actions/workflows/ci.yaml",
-        "img": "https://github.com/sue445/faraday-mashify/actions/workflows/ci.yaml/badge.svg"
+        "url": "https://github.com/sue445/faraday-mashify/actions/workflows/ci.yml",
+        "img": "https://github.com/sue445/faraday-mashify/actions/workflows/ci.yml/badge.svg"
       }
     ]
   },
