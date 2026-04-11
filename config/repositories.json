@@ -593,6 +593,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/ghrcooldown",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/ghrcooldown/actions/workflows/test.yml",
+        "img": "https://github.com/sue445/ghrcooldown/actions/workflows/test.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/circleci-ruby-orbs",
     "badges": [
       {
