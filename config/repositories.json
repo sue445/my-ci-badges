@@ -765,8 +765,8 @@
         "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_upgrade_version.yml/badge.svg"
       },
       {
-        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_gem.yml",
-        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_gem.yml/badge.svg"
+        "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_gem_matrix.yml",
+        "img": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/ruby_gem_matrix.yml/badge.svg"
       },
       {
         "url": "https://github.com/sue445/sashimi_tanpopo-personal/actions/workflows/terraform_upgrade_version.yml",
