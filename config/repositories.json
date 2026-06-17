@@ -602,6 +602,15 @@
     ]
   },
   {
+    "repo_url": "https://github.com/sue445/rb-wasm-vdom",
+    "badges": [
+      {
+        "url": "https://github.com/sue445/rb-wasm-vdom/actions/workflows/build.yml",
+        "img": "https://github.com/sue445/rb-wasm-vdom/actions/workflows/build.yml/badge.svg"
+      }
+    ]
+  },
+  {
     "repo_url": "https://github.com/sue445/circleci-ruby-orbs",
     "badges": [
       {
